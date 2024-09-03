@@ -1,0 +1,33 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(193, 193, 193);
+  }
+.fisica{
+    background-color: rgb(174, 174, 236);
+}
+.portugues{
+    background-color: rgb(208, 142, 217);
+}
+.tecnico{
+    background-color: rgb(198, 235, 142);
+}
+.matematica{
+    background-color: rgb(235, 145, 145);
+}
+.pv{
+    background-color: rgb(231, 190, 114);
+}
+.manha{
+    width: 100%;
+    height: 20px;
+    display: block;
+    border: 1px solid  black;
+    background-color: white;
+
+}
+.textomanha{
+    text-align: center;
+    position: relative;
+    top: 0px;
+}
